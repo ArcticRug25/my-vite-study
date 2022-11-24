@@ -3,4 +3,6 @@
 .header {
   color: $theme-color;
   text-decoration: dashed;
+  transition: all;
+  text-size-adjust: 1;
 }
